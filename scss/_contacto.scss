@@ -1,0 +1,45 @@
+
+.container3 {
+  background-color: #E8CACA;
+  padding-top: 3%;
+  color:black;
+  text-align: center;
+  padding-bottom: 1%;
+}
+#contact-form {
+  width: 90%;
+  margin: 5% auto;
+  padding: 3% 3%;
+  text-align: left;
+  background-color: #f7f4ed;
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border: 0px solid #000000;
+  -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+/* Animaciones  */
+
+.boton-animado {
+background-color :#6E7376;
+color: #f3f3f3;
+animation-duration: 6s;
+   animation-name: animacion;
+   margin-bottom: 10px;
+   margin-left: 15px;
+}
+
+
+@keyframes animacion {
+   0% {
+     opacity: 0;
+   }
+   100% {
+     opacity: 1;
+   }
+  
+}

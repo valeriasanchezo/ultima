@@ -1,0 +1,40 @@
+.departamentos .card  {
+
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 60px;
+  padding-left: 14px;
+  padding-right: 12px;
+  
+  
+  } 
+.card-group .card  {
+
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 60px;
+  padding-left: 14px;
+  padding-right: 12px;
+  margin-bottom: 30px;
+  } 
+  
+  .card-group .card .card-title {
+  
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 35px;
+  color: #A4A2A2;
+  max-width: 270px;
+  
+  } 
+
+   #logo a img {
+    transform: scale(1);
+    transition: 1s;
+    opacity: 70%;
+    border-radius: 5%; }
+  
+  .galeriaIlustraciones a:hover img {
+    transform: scale(1.2);
+    opacity: 100%; }
+  
